@@ -1,4 +1,4 @@
-# gemini-code-collapse
+# gemini-code-sticky-collapse
 Show/Hide toggle to Gemini's sticky code header and Expand code block parent width
 
 ## Before
