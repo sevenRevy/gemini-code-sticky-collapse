@@ -6,10 +6,8 @@
 // @author       sevenRevy
 // @match        https://gemini.google.com/*
 // @grant        none
-// @license      MIT
+// @license      GPL-3.0 license
 // @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/960px-Google-gemini-icon.svg.png
-// @updateURL   https://raw.githubusercontent.com/sevenRevy/gemini-code-collapse/main/gemini-code-collapse.user.js
-// @downloadURL  https://raw.githubusercontent.com/sevenRevy/gemini-code-collapse/main/gemini-code-collapse.user.js
 // ==/UserScript==
 
 (function () {
