@@ -7,7 +7,7 @@
 // @match        https://gemini.google.com/*
 // @match        https://business.gemini.google/*
 // @grant        none
-// @license       GPL-3.0-only
+// @license      GPL-3.0-only
 // @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Google-gemini-icon.svg/960px-Google-gemini-icon.svg.png
 // ==/UserScript==
 
